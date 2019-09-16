@@ -133,6 +133,12 @@ card_connect:
   username: testing
   password: testing123
 
+# Working credentials, no need to replace
+card_pointe:
+  username: Shopify1
+  password: Shopify1#TestMode123
+  merchid: "496000765897"
+
 #Username/Password given in sign up email. Not MMS credentials
 card_save:
   login: merchant_id
